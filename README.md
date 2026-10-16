@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/helios-studio.svg" alt="Helios Studio" width="350" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/helios-studio-dark.svg" /><img src="assets/helios-studio.svg" alt="Helios Studio" width="350" /></picture></p>
 
 # Helios Studio
 
