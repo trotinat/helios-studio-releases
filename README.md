@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/helios-studio.svg" alt="Helios Studio" width="350" /></p>
+
 # Helios Studio
 
 Installateurs Windows et mises à jour de Helios Studio — BC Skills Group.
